@@ -24,3 +24,14 @@ Atividade de informática no PowerBI - Ice Cream Sales 2026 (https://mail.google
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/4f758b53-9270-4604-9224-c4e3929ff1bc" />
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/5317555d-25d2-4e27-b230-c0de13349571" />
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/5a96a8d2-acb4-488a-9c5e-f06320d8fe96" />
+
+Atividade de informática no PowerBI - Red Wine Quality (link: [Red Wine Quality - José.xlsx](https://github.com/user-attachments/files/27822846/Red.Wine.Quality.-.Jose.xlsx)
+)
+
+# Tabela
+<img width="1057" height="756" alt="image" src="https://github.com/user-attachments/assets/043095ee-b4f0-4889-bfad-f8ed5abfd019" />
+
+# Gráficos 
+<img width="1497" height="763" alt="image" src="https://github.com/user-attachments/assets/9bfcc105-f2fc-4af6-8a71-61fcf1241a87" />
+
+Com todos os Gráficos estruturados, é possível afirmar que nenhuma característica (sozinha) afeta diretamente a qualidade do vinho. Nesse contexto, não é plausível o uso da regressão linear simples. Deve-se utilizar a regressão linear composta, que leva em consideração todas as características em conjunto.
